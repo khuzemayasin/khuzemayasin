@@ -27,13 +27,13 @@ I enjoy creating user-friendly online applications that promote large traffic, l
 I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfil your needs.
 ### Coding Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmedrizvi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzi&hide=TeX&layout=compact)
 
 ### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=sarmedrizvi&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=khuzi&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ### Visitors
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sarmedrizvi.sarmedrizvi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khuzi.khuzi)
 
