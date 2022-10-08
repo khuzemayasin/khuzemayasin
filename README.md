@@ -1,7 +1,7 @@
 
 ## Hi I'm Khuzaima Yaseen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-A Full Stack <b>React and Nodejs Developer</b> and eagerly snatching up whatever programming languages, frameworks, or concepts I can incorporate into the mental coding web I've created.
+A Full Stack <b>React, React Native and Nodejs Developer</b> and eagerly to learn new programming languages, libraries, frameworks, and concepts in order to create fast, optimised, and efficient websites and mobile applications.
 
 :mailbox: Reach me out!
 
@@ -9,9 +9,9 @@ A Full Stack <b>React and Nodejs Developer</b> and eagerly snatching up whatever
 
 - 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding project ideas & contributions in Django.
+- 🤔 I’m looking for help with Outstanding project ideas & contributions in JavaScript.
 - 📫 How to reach me: khuzaimayaseen@gmail.com
-- ⚡ Fun fact: I can code for more than 12 hours continuously.
+- ⚡ Fun fact: I can code for more than 10 hours continuously.
 
 ## ⚡ Technologies
 
@@ -22,7 +22,7 @@ A Full Stack <b>React and Nodejs Developer</b> and eagerly snatching up whatever
 
 <br >
 
-I enjoy creating user-friendly online applications that promote large traffic, lots of page views, and great user experiences. removing issues from current websites and adding improvements that greatly increase the operation and speed of the web. Ensured that all projects were delivered on schedule and efficiently, managing the entire lifecycle of software development for many.
+I enjoy developing user-friendly online applications that encourage high traffic, numerous page views, and excellent user experiences. Removing issues from existing websites and adding enhancements that greatly improve web operation and speed. Managed the entire lifecycle of software development for many clients, ensuring that all projects were completed on time and efficiently.
 
 I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfil your needs.
 ### Coding Stats
