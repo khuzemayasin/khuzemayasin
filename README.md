@@ -5,9 +5,9 @@ A Full Stack <b>React, React Native and Nodejs Developer</b> and eagerly to lear
 
 :mailbox: Reach me out!
 
-[![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0186908f14a9dbeb54)](https://www.upwork.com/freelancers/~0186908f14a9dbeb54) [![Linkedin Badge](https://img.shields.io/badge/-@khuzaimayaseen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzaima-yaseen-346b71197/) [![Mail Badge](https://img.shields.io/badge/-khuzaimayaseen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khuzaimayaseen@gmail.com)
+[![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0186908f14a9dbeb54)](https://www.upwork.com/freelancers/~0186908f14a9dbeb54) [![Freelancer Badge]https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white](https://www.fiverr.com/convotech) [![Linkedin Badge](https://img.shields.io/badge/-@khuzaimayaseen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzaima-yaseen-346b71197/) [![Mail Badge](https://img.shields.io/badge/-khuzaimayaseen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khuzaimayaseen@gmail.com)
 
-- 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a> and @ <a href='https://fiverr.com/'>Upwork</a>
+- 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a> and @ <a href='https://fiverr.com/'>Fiverr</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding project ideas & contributions in JavaScript.
 - 📫 How to reach me: khuzaimayaseen@gmail.com
