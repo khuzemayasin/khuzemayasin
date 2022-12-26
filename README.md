@@ -1,7 +1,9 @@
 
 ## Hi I'm Khuzaima Yaseen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-A Full Stack <b>React, Vue, React Native and Nodejs Developer</b> and eagerly to learn new programming languages, libraries, frameworks, and concepts in order to create fast, optimised, and efficient websites and mobile applications.
+A Full Stack  and eagerly to learn new programming languages, libraries, frameworks, and concepts in order to create fast, optimised, and efficient websites and mobile applications.
+
+As a Full Stack <b>React, Vue, React Native and Nodejs Developer</b>, I have a wide range of skills and experience in developing and maintaining web and mobile applications. I am proficient in front-end and back-end technologies, and I have a strong understanding of how to build and deploy applications from start to finish. I am comfortable working with a variety of programming languages, frameworks, and tools, and I am always seeking to learn and improve my skills. I am a proactive and detail-oriented problem solver, and I am passionate about delivering high-quality solutions that meet the needs of my clients and users.
 
 :mailbox: Reach me out!
 
