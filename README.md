@@ -7,11 +7,14 @@ As a Full Stack <b>React, Vue, React Native and Nodejs Developer</b>, I have a w
 
 [![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0186908f14a9dbeb54)](https://www.upwork.com/freelancers/~0186908f14a9dbeb54) [![Freelancer Badge](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/convotech) [![Linkedin Badge](https://img.shields.io/badge/-@khuzaimayaseen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzaima-yaseen-346b71197/) [![Mail Badge](https://img.shields.io/badge/-khuzaimayaseen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khuzaimayaseen@gmail.com)
 
-- 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a> and @ <a href='https://fiverr.com/'>Fiverr</a>
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding project ideas & contributions in JavaScript.
-- 📫 How to reach me: khuzaimayaseen@gmail.com
-- ⚡ Fun fact: I can code for more than 10 hours continuously.
+- 🔭 Currently, I am working as a full-time freelancer on platforms such as @ <a href='https://www.upwork.com/freelancers/~0186908f14a9dbeb54'>Upwork</a> and @ <a href='https://www.fiverr.com/convotech?up_rollout=true'>Fiverr</a>.
+- 💼 I have experience working with a variety of clients, including startups, small businesses, and large corporations.
+- 🔨 I have a strong understanding of modern software development practices, including agile methodologies, continuous integration, and test-driven development.
+- 🌱 I am always looking to learn new technologies and stay up to date with the latest trends in the field.
+- 💡 I have a strong portfolio of completed projects that showcases my skills and experience as a developer.
+- 📈 I am highly motivated and always strive to exceed the expectations of my clients by delivering high-quality solutions in a timely manner.- 
+- 💻 Some of the technologies that I have expertise in include React, Next, Vue, Next Recat Native, Express.js.
+- 🌎 I have experience working with clients from around the world, and am comfortable communicating with people from diverse cultural backgrounds.
 
 ## ⚡ Technologies
 
